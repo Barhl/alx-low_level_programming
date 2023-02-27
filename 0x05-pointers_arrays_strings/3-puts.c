@@ -3,6 +3,8 @@
  * _puts - prints a string
  * @str: the string
  *
+ * _putchar - declare
+ *
  * Return: the length of a string
  */
 void _puts(char *str)
