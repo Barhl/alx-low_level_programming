@@ -3,7 +3,7 @@
  * _puts - prints a string
  * @str: the string
  *
- * _putchar - declare
+ * _putchar - declares a function
  *
  * Return: the length of a string
  */
